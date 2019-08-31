@@ -25,10 +25,6 @@ echo '''\a
 \033[34;1m              | |
 \033[34;1m             _|_|_ '''
 sleep 1
-apt update && apt upgrade
-apt install nano
-apt install git
-pkg install python python2 vim figlet curl
 clear
 echo
 echo
@@ -92,9 +88,9 @@ echo $me" █"$bi"  Author  :  marioXploit   "$me"            █"
 echo $ku" █"$bi"  website :  www.marioxploit.home.blog"$ku" █"
 echo $bi" █"$bi"  Gmail   :  mario_ofc@yahoo.com"$bi"       █"
 echo $i"  █"$bi" caution  :  not reedit!"$i"                █"
-echo $me" █"$bi" caution  :  [+] my team [+]!"$i"           █"
-echo $pu" █"$bi" caution  :  ./J4CKW!EL | ./c00dotz"$i"     █"
-echo $bi" █"$bi" caution  :  ~n0t_wibu  | ~zer0_"$i"        █"
+echo $me" █"$bi" caution  :  [+] my team [+]!"$me"          █"
+echo $pu" █"$bi" caution  :  ./J4CKW!EL | ./c00dotz"$pu"    █"
+echo $bi" █"$bi" caution  :  ~n0t_wibu  | ~zer0_"$bi"       █"
 echo $me"==================="$ku" ===================" 
 echo
 echo $i"-----› MENU TOOLS <------:"
